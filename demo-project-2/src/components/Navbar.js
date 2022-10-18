@@ -17,6 +17,9 @@ function Navbar() {
                 <li class="nav-item">
                     <Link className='nav-link' to="product">Product</Link>
                 </li>
+                <li class="nav-item">
+                    <Link className='nav-link' to="user">User</Link>
+                </li>
             </ul>
         </div>
     )
